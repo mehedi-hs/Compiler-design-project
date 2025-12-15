@@ -1,0 +1,7 @@
+gate fl f = 3.5;
+gate in G = 100;
+gate cr s = "mehedi"; --compiler design
+show(s);
+show (f);
+take fl a;
+show (a);
